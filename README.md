@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay8172
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack 
+- 🌱 I’m currently learning backend development using Python Django 
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 Reach me in git
 
