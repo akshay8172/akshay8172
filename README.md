@@ -1,5 +1,8 @@
+## ❌ No Certificates, Only hands-on experience
+Certifications don't define me; my code does. I'm driven by hands-on experience and a genuine passion for coding.
+
 # Hi there! 👋
-I'm Akshay Babu, a passionate coder diving into the world of backend development using Python Django.
+I'm **Akshay** **Babu**, a passionate coder diving into the world of backend development using Python Django.
 
 ## 🌱 Currently Learning
 I'm on a journey to master the intricacies of backend development with a focus on Python Django.
@@ -17,8 +20,7 @@ I'm a self-taught learner, honing my skills through YouTube tutorials and offici
 ## 🧑‍💻 Problem Solver
 "If there are bugs, I'll tackle them head-on. I love challenges and enjoy solving problems."
 
-## ❌ No Certificates, Just Code
-Certifications don't define me; my code does. I'm driven by hands-on experience and a genuine passion for coding.
+
 
 
 
