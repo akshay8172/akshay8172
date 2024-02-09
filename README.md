@@ -11,7 +11,7 @@ I'm on a journey to master the intricacies of backend development with a focus o
 I'm eager to collaborate on open-source projects and work alongside a dynamic developer team.
 
 ## 📫 Connect with Me
-Let's connect on [GitHub](https://github.com/akshay8172)! Feel free to explore my projects and repositories.
+Let's connect on [GitHub](www.linkedin.com/in/akshay-babu-python-developer)! Feel free to explore my projects and repositories.
 And also on [LinkedIn](https://www.linkedin.com/in/akshay-babu-python-django/)
 
 ## 📖 Learning Path
